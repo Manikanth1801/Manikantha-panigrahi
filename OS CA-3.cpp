@@ -9,6 +9,7 @@ Consider: 1. Queue 2 will be processed after Queue 1 becomes empty. 2. Priority 
 
 
 #include<stdio.h>
+#include <bits/stdc++.h>
 #include<conio.h>
 #include<stdbool.h>
 
@@ -262,4 +263,3 @@ for ( clock = 0; clock< total_exection_time; clock++ )
 	}	
 	return 0;
 }
-
